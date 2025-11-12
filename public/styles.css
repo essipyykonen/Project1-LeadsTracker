@@ -1,5 +1,6 @@
 body{font-family:system-ui,Segoe UI,Arial,sans-serif;background:#f4f7fb;margin:0}
 .wrap{max-width:980px;margin:20px auto;padding:0 16px}
+
 .card{background:#fff;border:1px solid #e6e9f0;border-radius:12px;padding:14px;margin:12px 0}
 label{display:block;margin:8px 0}
 input,select,textarea,button{font:inherit;padding:8px;border:1px solid #ccd3e0;border-radius:8px}
